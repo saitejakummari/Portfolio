@@ -1,0 +1,23 @@
+table td{
+    word-spacing: normal;
+    word-break: normal;
+}
+ul.MyUl{
+    display: inline-block;
+    text-align: left;
+}
+h2{
+    background-color: lightblue;
+    color: cornflowerblue;
+    font-style: italic;
+    align-items: center;
+}
+a.top{
+    background-color: blueviolet;
+    color: white;
+}
+img {
+    height: 45px;
+    width: 50px;
+    align-items: center;
+}
